@@ -1,8 +1,20 @@
+![alt text](./banner.png)
+
 # Universal Identity System
 
-The Universal Identity System is a DID standard for the future: free, scalable, and verifiable.
+The Universal Identity System is a scalable DID standard for the future of Ethereum: 
 
-Supporting all EVM account types: EOA, Contract, and Smart Wallets.
+- Free Setup: no gas fees to create or update
+- Scalable Design: minimal onchain data storage
+- Verifiable Signatures: EIP-3668 for offchain data lookups
+
+The UIS DID standard supports all EVM account types: EOA, Contract, and Smart Wallets.
+
+## Why UIS?
+
+Ethereum is the backbone of the decentralized web--it is time for a DID standard that is designed for the future of Ethereum.
+
+Drawing upon years of experience, research and experimentation, UIS is a scalable DID standard that is designed to be gas efficient, scalable, and secure.
 
 ## Getting Started
 
